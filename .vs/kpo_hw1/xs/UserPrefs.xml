@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{69F29BAE-E375-4C4E-8A0D-D7EE84055386}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kpo__hw1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="kpo_hw1/Objects/Monkey.cs">
+    <Files>
+      <File FileName="kpo_hw1/Program.cs" Line="16" Column="38" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="9" Column="17" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="10" Column="1" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="9" Column="1" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="10" Column="1" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="8" Column="14" />
+      <File FileName="kpo_hw1/Interfaces/EmptyInterface.cs" Line="12" Column="1" />
+      <File FileName="kpo_hw1/Objects/Animal.cs" Line="6" Column="2" />
+      <File FileName="kpo_hw1/Objects/Herbo.cs" Line="15" Column="1" />
+      <File FileName="kpo_hw1/Objects/Monkey.cs" Line="6" Column="4" />
+      <File FileName="kpo_hw1/Objects/Predator.cs" Line="8" Column="1" />
+      <File FileName="kpo_hw1/Objects/Rabbit.cs" Line="9" Column="1" />
+      <File FileName="kpo_hw1/Objects/Tiger.cs" Line="8" Column="1" />
+      <File FileName="kpo_hw1/Objects/Wolf.cs" Line="8" Column="1" />
+      <File FileName="kpo_hw1/Objects/Computer.cs" Line="8" Column="1" />
+      <File FileName="kpo_hw1/Objects/Table.cs" Line="6" Column="2" />
+      <File FileName="kpo_hw1/Objects/Thing.cs" Line="15" Column="2" />
+      <File FileName="kpo_hw1/Places/Zoo.cs" Line="50" Column="36" />
+      <File FileName="kpo_hw1/Places/Clinic.cs" Line="14" Column="2" />
+      <File FileName="kpo_hw1/Objects/AnimalsList.cs" Line="7" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kpo_hw1" expanded="True">
+            <Node name="kpo_hw1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

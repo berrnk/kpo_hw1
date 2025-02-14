@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Y1Yoc0qxN8QcgcSzc+6ktVLVXli6oKJMrPFf1QZ/fpwuC1a8+B5iJLVXm1FHTg5u0xT+FjkPiJ0CbMTCGIGPA==",
+  "success": true,
+  "projectFilePath": "/Users/nikitochka/Projects/kpo_hw1/kpo_hw1/kpo_hw1.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikitochka/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.2/microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "/Users/nikitochka/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.2/microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
